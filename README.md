@@ -3,24 +3,25 @@
 ## Overview of Project
 ---
 This analysis seeks to find the relationship between campaign outcomes based on their launched dates and their funding goals to help Louise(client) have a better understanding of theater campaigns fundraising behavior. 
---- 
+
 The project consists in two technical analysis using Microsoft Excel to outline relevant insights and communicate them through pertinent visualizations. 
 
-
+---
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 
 For the first part of the analysis, pivot tables and graphing in Excel were used to visualize theater campaign outcomes based on launched date. As our client is mostly interested in this category.
+
 Before creating the pivot table, an additional column “Years” was added to the Kickstarter sheet. This column extracted the year from the “Date Created Conversion column”. The pivot table was created using “Parent Category” and “Years” as filter, “Date Created Conversion” as rows, “Outcomes” as columns and values. 
----
+
 The resulting pivot table can be found in the Theater Outcomes by Launched Date sheet. To have the data by month it was necessary to group the rows label into the time of months only. 
----
+
 Afterwards a line chart was created to visualize the relationship between outcomes and launched month. The result is shown as follows: 
 
 ![Theater_Outcomes_vs_Launch]("C:\Users\monica ramos\OneDrive\Escritorio\Analysis Project\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png").
 This graph can be found in the "Resources" folder. 
----
+
 ### Analysis of Outcomes Based on Goals
 
 For the second analysis, ranges and formulas such as countifs() were used to analyze the relationship between the outcomes and the goals. The first step was to create a new table that contained different ranges for the goal with its respective number of successful, failed and canceled campaigns, as well as the percentage for each outcome. The countifs() formula was used to fill up the table with the necessary values.
@@ -30,11 +31,12 @@ The resulting chart is shown next:
 
 
 ### Challenges and Difficulties Encountered
+
 The main challenge encountered during the first analysis was the need to look up for different formulas in the web in order to complete succeessfully with the requierements needed. For example; how to use the years() formula in excel and how to group rows of a pivot table by months. 
----
+
 For the second analysis, the greatest difficulty was to make sure that every countif() formula contained the correct range of values for the goal. This was a quite tedious task, but when finished, I realized that a possible solution to this problem was to reference the values to a specific cell rather than to introduce each range manually. This could have saved a lot of time.
 
-
+---
 ## Results
 
 The main conclusions from the Outcomes based on Launch Date are listed below:
