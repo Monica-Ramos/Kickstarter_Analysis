@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+---
 This analysis seeks to find the relationship between campaign outcomes based on their launched dates and their funding goals to help Louise(client) have a better understanding of theater campaigns fundraising behavior. 
 --- 
 The project consists in two technical analysis using Microsoft Excel to outline relevant insights and communicate them through pertinent visualizations. 
