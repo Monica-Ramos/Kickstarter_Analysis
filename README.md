@@ -28,6 +28,7 @@ For the second analysis, ranges and formulas such as countifs() were used to ana
 
 The resulting chart is shown next:
 ![alt text](https://github.com/[Monica-Ramos]/[Kickstarter_Analysis]/blob/[main]/image.png?raw=true)
+![](Resources/Outcomes_vs_Goals.png)
 ![Outcomes_vs_Goals.png]("C:\Users\monica ramos\OneDrive\Escritorio\Analysis Project\Crowdfunding Analysis\Resources\Outcomes_vs_Goals.png").
 
 
