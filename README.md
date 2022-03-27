@@ -48,7 +48,7 @@ The main conclusions from the Outcomes based on Launch Date are listed below:
 The main conclusions from the Outcomes based on Goals are:
 * For campaings with a goal below 15000 the percentage of successful campaings is always greater than the percentage of failed campaings. However for campaings with a goal range between 15000 to 19999 the percentage of successful and failed campaings is 50% for both cases. 
 * The percentage of failed campaings is higher for goal range between 20000 to 34999, as well as for campaings form 45000 and more. 
-* There are no canceled campaings in the category of plays in any of the different goal ranges. So we can conclude that, in general, plays campaings are not commonly canceled.
+* There are no canceled campaings in the category of plays in any of the different goal ranges. So based on the dataset, plays campaings are not commonly canceled.
 * Most of the campaings regarding plays have a goal between 1000 and 4999. 
 
 
@@ -57,3 +57,10 @@ The main conclusions from the Outcomes based on Goals are:
 Eventhough the dataset used is quite large there are not as many campaigns with
 
 - What are some other possible tables and/or graphs that we could create?
+In order to present a more complete analysis to our client, we could create new tables to analyze different relationships:
+* relationship between outcomes based on the country it was launched- this could help Louise decide the best place to launch her campaing
+* relationship between outcomes and the backers involved- does having more backers garantee more successful campains
+* relationship between categories and the average donation- which category has the highest average donation, and how well position is the category of theater ranked
+* relationship between the time it took for the campaigns to fully fund themself and the amount of money raised- does campaings that took longer time raised more money
+
+
