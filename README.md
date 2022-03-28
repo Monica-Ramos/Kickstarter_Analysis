@@ -19,7 +19,7 @@ The resulting pivot table can be found in the Theater Outcomes by Launched Date 
 
 Afterwards a line chart was created to visualize the relationship between outcomes and launched month. The result is shown as follows: 
 
-![]()
+![](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -45,15 +45,15 @@ The main conclusions from the Outcomes based on Launch Date are listed below:
 * The total succesful campaigns represent 61%, failed campaigns 36% and canceled only 3%. Which can be a good indicator than there is a higher probability that a campaign can succed, however it is not granted.
 
 The main conclusions from the Outcomes based on Goals are:
-* For campaings with a goal below 15000 the percentage of successful campaings is always greater than the percentage of failed campaings. However for campaings with a goal range between 15000 to 19999 the percentage of successful and failed campaings is 50% for both cases. 
-* The percentage of failed campaings is higher for goal range between 20000 to 34999, as well as for campaings form 45000 and more. 
+* For campaings with a goal below $15000 the percentage of successful campaings is always greater than the percentage of failed campaings. However for campaings with a goal range between $15000 to $19999 the percentage of successful and failed campaings is 50% for both cases. 
+* The percentage of failed campaings is higher for goal range between $20000 to $34999, as well as for campaings form $45000 and more. 
 * There are no canceled campaings in the category of plays in any of the different goal ranges. So based on the dataset, plays campaings are not commonly canceled.
-* Most of the campaings regarding plays have a goal between 1000 and 4999. 
+* Most of the campaings regarding plays have a goal between $1000 and $4999. This information can be useful when planning the required budget. 
 
 
 - What are some limitations of this dataset?
 
-Eventhough the dataset used is quite large there are not as many campaigns with
+Eventhough the dataset used is quite large there are not as many campaigns with 
 
 - What are some other possible tables and/or graphs that we could create?
 In order to present a more complete analysis to our client, we could create new tables to analyze different relationships:
