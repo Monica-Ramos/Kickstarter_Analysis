@@ -27,6 +27,8 @@ This graph can be found in the "Resources" folder.
 For the second analysis, ranges and formulas such as countifs() were used to analyze the relationship between the outcomes and the goals. The first step was to create a new table that contained different ranges for the goal with its respective number of successful, failed and canceled campaigns, as well as the percentage for each outcome. The countifs() formula was used to fill up the table with the necessary values.
 
 The resulting chart is shown next:
+
+![](https://github.com/[Monica-Ramos]/[Kickstarter]/blob/[main]/Outcomes_vs_Goals.png?raw=true)
 ![alt text](https://github.com/[Monica-Ramos]/[Kickstarter_Analysis]/blob/[main]/image.png?raw=true)
 ![](Resources/Outcomes_vs_Goals.png)
 ![Outcomes_vs_Goals.png]("C:\Users\monica ramos\OneDrive\Escritorio\Analysis Project\Crowdfunding Analysis\Resources\Outcomes_vs_Goals.png").
