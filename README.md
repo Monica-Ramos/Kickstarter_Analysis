@@ -15,7 +15,8 @@ For the first part of the analysis, pivot tables and graphing in Excel were used
 
 Before creating the pivot table, an additional column “Years” was added to the Kickstarter sheet. This column extracted the year from the “Date Created Conversion column”. The pivot table was created using “Parent Category” and “Years” as filter, “Date Created Conversion” as rows, “Outcomes” as columns and values. 
 
-The resulting pivot table can be found in the Theater Outcomes by Launched Date sheet. To have the data by month it was necessary to group the rows label into the time of months only. 
+The resulting pivot table can be found in the Theater Outcomes by Launched Date sheet and is also shown below. To have the data by month it was necessary to group the rows label into the time of months only. 
+
 
 Afterwards a line chart was created to visualize the relationship between outcomes and launched month. The result is shown as follows: 
 
@@ -35,6 +36,8 @@ The main challenge encountered during the first analysis was the need to look up
 
 For the second analysis, the greatest difficulty was to make sure that every countif() formula contained the correct range of values for the goal. This was a quite tedious task, but when finished, I realized that a possible solution to this problem was to reference the values to a specific cell rather than to introduce each range manually. This could have saved a lot of time.
 
+Besides the technical analysis challenge´s encountered, I consider that the most complex task of all is interpreting data results and learning how to use this information wisely.
+
 ---
 ## Results
 
@@ -50,12 +53,14 @@ The main conclusions from the Outcomes based on Goals are:
 * There are no canceled campaings in the category of plays in any of the different goal ranges. So based on the dataset, plays campaings are not commonly canceled.
 * Most of the campaings regarding plays have a goal between $1000 and $4999. This information can be useful when planning the required budget. 
 
+What are some limitations of this dataset?
 
-- What are some limitations of this dataset?
+* Dataset does not contain a dictionary that describes what does each colum represents.
+* Eventhough the dataset used is quite large, when filtering for theater campaings the dataset reduce substantially, and we end up with fewer data to analyze.
 
-Eventhough the dataset used is quite large there are not as many campaigns with 
 
-- What are some other possible tables and/or graphs that we could create?
+What are some other possible tables and/or graphs that we could create?
+
 In order to present a more complete analysis to our client, we could create new tables to analyze different relationships:
 * relationship between outcomes based on the country it was launched- this could help Louise decide the best place to launch her campaing
 * relationship between outcomes and the backers involved- does having more backers garantee more successful campains
