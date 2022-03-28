@@ -19,8 +19,7 @@ The resulting pivot table can be found in the Theater Outcomes by Launched Date 
 
 Afterwards a line chart was created to visualize the relationship between outcomes and launched month. The result is shown as follows: 
 
-![Theater_Outcomes_vs_Launch]("C:\Users\monica ramos\OneDrive\Escritorio\Analysis Project\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png").
-This graph can be found in the "Resources" folder. 
+![]()
 
 ### Analysis of Outcomes Based on Goals
 
@@ -29,10 +28,6 @@ For the second analysis, ranges and formulas such as countifs() were used to ana
 The resulting chart is shown next:
 
 ![](Outcomes_vs_Goals.png)
-![alt text](https://github.com/[Monica-Ramos]/[Kickstarter_Analysis]/blob/[main]/image.png?raw=true)
-![](Resources/Outcomes_vs_Goals.png)
-![Outcomes_vs_Goals.png]("C:\Users\monica ramos\OneDrive\Escritorio\Analysis Project\Crowdfunding Analysis\Resources\Outcomes_vs_Goals.png").
-
 
 ### Challenges and Difficulties Encountered
 
