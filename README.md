@@ -38,7 +38,7 @@ The main challenge encountered during the first analysis was the need to look up
 
 For the second analysis, the greatest difficulty was to make sure that every countif() formula contained the correct range of values for the goal. This was a quite tedious task, but when finished, I realized that a possible solution to this problem was to reference the values to a specific cell rather than to introduce each range manually. This could have saved a lot of time.
 
-Besides the technical analysis challenge´s encountered, I consider that the most complex task of all is interpreting data results and learning how to use this information wisely.
+Besides the technical analysis challenges encountered, I consider that the most complex task of all is interpreting data results and learning how to use this information wisely.
 
 ---
 ## Results
